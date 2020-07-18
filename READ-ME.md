@@ -1,8 +1,11 @@
 # **API User Guide**
 |**Table of Contents:**|
 |-|
+|[Deployed API](#Deployed-API)|
 |[Project Routes](#Project-Routes)|
 |[Action Routes](#Action-Routes)|
+### **Deployed API**
+Server located at: https://nbnodesprint1.herokuapp.com/
 ###  **Project Creation**:
 #### POST */api/projects*
 Creates a new project.
